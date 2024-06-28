@@ -9,7 +9,8 @@ This repo holds a collection of attempted analyses from Kaggle and other dataset
 * Organizing within folder by time
 * Formatting the links to be more compact 
 
-## EDA
+## Archive Categories
+### EDA
 [Coffee EDA](Exploratory%20Data%20Analysis/Coffee%20EDA)
 
 [College Ranking EDA](Exploratory%20Data%20Analysis/College%20Ranking%20EDA)
@@ -30,7 +31,7 @@ This repo holds a collection of attempted analyses from Kaggle and other dataset
 
 [Yelp EDA](Exploratory%20Data%20Analysis/Yelp%20EDA)
 
-## Regression
+### Regression
 [Blueberry Regression](Regression/Blueberry%20Regression/)
 
 [Concrete Regression](Regression/Concrete%20Regression/)
@@ -43,7 +44,7 @@ This repo holds a collection of attempted analyses from Kaggle and other dataset
 
 [Stock Forecasting With ARIMA](Regression/Stock%20Forecasting%20With%20ARIMA/)
 
-## Classification
+### Classification
 [Bank Churn Classification](Classification/Bank%20Churn%20Classification)
 
 [Credit Card Classification](Classification/Credit%20Card%20Classification)
