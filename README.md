@@ -4,6 +4,11 @@ This repo holds a collection of attempted analyses from Kaggle and other dataset
 
 **Disclaimer: I can not guarantee that it will be the prettiest notebook**
 
+### WIP:
+* Adding project descriptions
+* Organizing within folder by time
+* Formatting the links to be more compact 
+
 ## EDA
 [Coffee EDA](Exploratory%20Data%20Analysis/Coffee%20EDA)
 
