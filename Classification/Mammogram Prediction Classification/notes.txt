@@ -1,0 +1,28 @@
+1. train
+
+converting the images to probability by group than append image_id by merging
+
+have to predict one classification probability for each breast view
+
+apply a convolutional network
+
+*take your time to understand the variables a bit
+
+only provided for train gives information on how difficult conventional techniques could identify
+(density, birads, difficult_negative_case, biopsy)
+
+tells you  if there was cancer
+(cancer, invasive)
+
+2. test
+
+
+
+3. features?
+
+none to engineer really *atleast that i know of  *maybe categories
+
+
+4. modelling 
+
+utilizing state of the art pretrained models as a base-line ensemble
